@@ -27,7 +27,7 @@ $ pip install mechanize
 $ pip install requests futures
 $ pip install requests bs4
 $ apt install git
-$ git clone https://github.com/techboy237cm/techboy237cm-Techboy237Facebook-Brute-force4.4A.git
+$ git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.3B.git
 $ cd Techboy237Facebook-Brute-force4.4A
 $ python techboy237facebook-brute-force4.4-ENC.py
 ```
@@ -45,7 +45,7 @@ $ python techboy237Facebook-Brute-force4.4-ENC.py
 #### [~] SINGLE COMMAND
 
 ```
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pip install cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/techboy237cm-Techboy237Facebook-Brute-force4.4A.git ; ls ; cd techboy237cm-Techboy237Facebook-Brute-force4.4A ; ls ; python techboy237facebook_brute_force4.4-ENC.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pkg install rust ; pip install bcrypt ; pip install pycrul ; pkg install git ; pip install cryptography ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.3B.gitt ; ls ; cd Techboy237Facebook-Brute-force4.4A ; ls ; python techboy237facebook_brute_force4.4-ENC.py
 ```
 
 #### MY SOCIAL MEDIA
